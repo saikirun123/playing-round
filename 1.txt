@@ -1,2 +1,3 @@
 This is a sample text file :)
 I hope you are ok.
+animals
