@@ -2,7 +2,11 @@ This is a sample text file :)
 I hope you are ok.
 animals
 <<<<<<< HEAD
+<<<<<<< HEAD
 You are a rude and terrible person. The way you treat others is horrible.
 =======
 analmulls
 >>>>>>> testing
+=======
+Fetch me ya!
+>>>>>>> 60406064ee9768497050a40daa70d875333cedcb
