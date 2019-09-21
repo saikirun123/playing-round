@@ -1,4 +1,8 @@
 This is a sample text file :)
 I hope you are ok.
 animals
+<<<<<<< HEAD
 You are a rude and terrible person. The way you treat others is horrible.
+=======
+analmulls
+>>>>>>> testing
